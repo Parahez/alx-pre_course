@@ -1,3 +1,2 @@
 #!/bin/bash
- echo "Hey my School " 
-
+echo "School" 
